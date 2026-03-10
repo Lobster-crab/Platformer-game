@@ -3,6 +3,11 @@
   "ResourceOrderSettings":[
     {"name":"Oplayer","order":1,"path":"objects/Oplayer/Oplayer.yy",},
     {"name":"sBackground","order":2,"path":"sprites/sBackground/sBackground.yy",},
+    {"name":"sClouds","order":7,"path":"sprites/sClouds/sClouds.yy",},
     {"name":"sInvisibleWall","order":1,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
+    {"name":"splayer_idle","order":3,"path":"sprites/splayer_idle/splayer_idle.yy",},
+    {"name":"sPlayer_jump","order":4,"path":"sprites/sPlayer_jump/sPlayer_jump.yy",},
+    {"name":"sPlayer_walk","order":5,"path":"sprites/sPlayer_walk/sPlayer_walk.yy",},
+    {"name":"sWalls","order":6,"path":"sprites/sWalls/sWalls.yy",},
   ],
 }
