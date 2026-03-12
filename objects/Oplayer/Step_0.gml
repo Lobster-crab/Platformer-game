@@ -35,3 +35,25 @@ if (place_meeting(x,y+vsp,Owall))
 	vsp = 0;
 }
 y = y + vsp
+
+// green:( animation
+
+if (!place_meeting(x,y+1,Owall))
+{
+	sprite_index = sPlayer_jump;
+	image_speed = 0
+	if (vsp > 0) image_index = 1; else image_index = 0;
+}
+else
+{
+image_speed = 1;
+if (hsp == 0)
+{
+	sprite_index = sPlayer;
+}
+else
+{
+	sprite_index = sPlayer_walk;
+}
+}
+
