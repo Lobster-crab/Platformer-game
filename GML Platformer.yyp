@@ -34,11 +34,15 @@
   },
   "name":"GML Platformer",
   "resources":[
+    {"id":{"name":"Obj_game","path":"objects/Obj_game/Obj_game.yy",},},
     {"id":{"name":"obj_orb","path":"objects/obj_orb/obj_orb.yy",},},
+    {"id":{"name":"obj_portal_2","path":"objects/obj_portal_2/obj_portal_2.yy",},},
     {"id":{"name":"obj_portal","path":"objects/obj_portal/obj_portal.yy",},},
     {"id":{"name":"Oplayer","path":"objects/Oplayer/Oplayer.yy",},},
     {"id":{"name":"Owall","path":"objects/Owall/Owall.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Rm_1","path":"rooms/Rm_1/Rm_1.yy",},},
+    {"id":{"name":"Rm_2","path":"rooms/Rm_2/Rm_2.yy",},},
+    {"id":{"name":"Rm_3","path":"rooms/Rm_3/Rm_3.yy",},},
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
     {"id":{"name":"sClouds","path":"sprites/sClouds/sClouds.yy",},},
     {"id":{"name":"sInvisibleWall","path":"sprites/sInvisibleWall/sInvisibleWall.yy",},},
@@ -55,7 +59,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Rm_1","path":"rooms/Rm_1/Rm_1.yy",},},
+    {"roomId":{"name":"Rm_2","path":"rooms/Rm_2/Rm_2.yy",},},
+    {"roomId":{"name":"Rm_3","path":"rooms/Rm_3/Rm_3.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
