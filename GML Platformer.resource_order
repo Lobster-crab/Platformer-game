@@ -1,6 +1,8 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"obj_orb","order":3,"path":"objects/obj_orb/obj_orb.yy",},
+    {"name":"obj_portal","order":2,"path":"objects/obj_portal/obj_portal.yy",},
     {"name":"Oplayer","order":1,"path":"objects/Oplayer/Oplayer.yy",},
     {"name":"sBackground","order":2,"path":"sprites/sBackground/sBackground.yy",},
     {"name":"sClouds","order":7,"path":"sprites/sClouds/sClouds.yy",},
@@ -9,6 +11,8 @@
     {"name":"sPlayer_jump","order":4,"path":"sprites/sPlayer_jump/sPlayer_jump.yy",},
     {"name":"sPlayer_walk","order":5,"path":"sprites/sPlayer_walk/sPlayer_walk.yy",},
     {"name":"spr_grain","order":8,"path":"sprites/spr_grain/spr_grain.yy",},
+    {"name":"spr_orb","order":10,"path":"sprites/spr_orb/spr_orb.yy",},
+    {"name":"spr_portal","order":9,"path":"sprites/spr_portal/spr_portal.yy",},
     {"name":"sWalls","order":6,"path":"sprites/sWalls/sWalls.yy",},
   ],
 }

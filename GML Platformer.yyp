@@ -34,6 +34,8 @@
   },
   "name":"GML Platformer",
   "resources":[
+    {"id":{"name":"obj_orb","path":"objects/obj_orb/obj_orb.yy",},},
+    {"id":{"name":"obj_portal","path":"objects/obj_portal/obj_portal.yy",},},
     {"id":{"name":"Oplayer","path":"objects/Oplayer/Oplayer.yy",},},
     {"id":{"name":"Owall","path":"objects/Owall/Owall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
@@ -45,6 +47,8 @@
     {"id":{"name":"sPlayer_walk","path":"sprites/sPlayer_walk/sPlayer_walk.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},},
+    {"id":{"name":"spr_orb","path":"sprites/spr_orb/spr_orb.yy",},},
+    {"id":{"name":"spr_portal","path":"sprites/spr_portal/spr_portal.yy",},},
     {"id":{"name":"sWalls","path":"sprites/sWalls/sWalls.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
