@@ -12,6 +12,21 @@ if (place_meeting(x,y+1,Owall)) && (key_jump)
 {
 	vsp = -jumpsp
 }
+if (!place_meeting(x,y+1,Owall)) && (key_jump)
+{
+if Djump = 1
+{
+if Tjump = 0
+{
+	vsp = -jumpsp
+	Tjump = 1
+}
+}
+}
+
+
+
+
 //Horizontal collisions
 
 if (place_meeting(x+hsp,y,Owall))
@@ -28,6 +43,7 @@ x = x + hsp
 
 if (place_meeting(x,y+vsp,Owall))
 {
+	Tjump= 0
 	while (!place_meeting(x,y+sign(vsp),Owall))
 	{
 		y = y + sign(vsp);

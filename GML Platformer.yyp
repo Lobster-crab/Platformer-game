@@ -34,7 +34,7 @@
   },
   "name":"GML Platformer",
   "resources":[
-    {"id":{"name":"Obj_game","path":"objects/Obj_game/Obj_game.yy",},},
+    {"id":{"name":"obj_deathbox","path":"objects/obj_deathbox/obj_deathbox.yy",},},
     {"id":{"name":"obj_orb","path":"objects/obj_orb/obj_orb.yy",},},
     {"id":{"name":"obj_portal_2","path":"objects/obj_portal_2/obj_portal_2.yy",},},
     {"id":{"name":"obj_portal","path":"objects/obj_portal/obj_portal.yy",},},
@@ -50,6 +50,7 @@
     {"id":{"name":"sPlayer_jump","path":"sprites/sPlayer_jump/sPlayer_jump.yy",},},
     {"id":{"name":"sPlayer_walk","path":"sprites/sPlayer_walk/sPlayer_walk.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"spr_deathbox","path":"sprites/spr_deathbox/spr_deathbox.yy",},},
     {"id":{"name":"spr_grain","path":"sprites/spr_grain/spr_grain.yy",},},
     {"id":{"name":"spr_orb","path":"sprites/spr_orb/spr_orb.yy",},},
     {"id":{"name":"spr_portal","path":"sprites/spr_portal/spr_portal.yy",},},

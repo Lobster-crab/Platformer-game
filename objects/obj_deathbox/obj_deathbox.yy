@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_game",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_deathbox",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_game",
+  "name":"obj_deathbox",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_deathbox",
+    "path":"sprites/spr_deathbox/spr_deathbox.yy",
+  },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
