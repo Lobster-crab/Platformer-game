@@ -11,6 +11,8 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_portal_3","path":"objects/obj_portal_3/obj_portal_3.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_projectile_zipie","path":"objects/obj_projectile_zipie/obj_projectile_zipie.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_portal_4","path":"objects/obj_portal_4/obj_portal_4.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_portal_5","path":"objects/obj_portal_5/obj_portal_5.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_portal_final","path":"objects/Obj_portal_final/Obj_portal_final.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"Oplayer",
