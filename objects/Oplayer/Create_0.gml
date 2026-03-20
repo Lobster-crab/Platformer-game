@@ -9,5 +9,5 @@ Djump = 0
 Tjump = 0
 
 //test remove later
-room_goto(Rm_6)
+room_goto(Rm_final)
 Djump=1
