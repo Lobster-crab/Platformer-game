@@ -38,6 +38,7 @@
     {"id":{"name":"obj_orb","path":"objects/obj_orb/obj_orb.yy",},},
     {"id":{"name":"obj_portal_2","path":"objects/obj_portal_2/obj_portal_2.yy",},},
     {"id":{"name":"obj_portal_3","path":"objects/obj_portal_3/obj_portal_3.yy",},},
+    {"id":{"name":"obj_portal_4","path":"objects/obj_portal_4/obj_portal_4.yy",},},
     {"id":{"name":"obj_portal","path":"objects/obj_portal/obj_portal.yy",},},
     {"id":{"name":"obj_projectile_zipie","path":"objects/obj_projectile_zipie/obj_projectile_zipie.yy",},},
     {"id":{"name":"Obj_zipie","path":"objects/Obj_zipie/Obj_zipie.yy",},},
@@ -47,6 +48,7 @@
     {"id":{"name":"Rm_2","path":"rooms/Rm_2/Rm_2.yy",},},
     {"id":{"name":"Rm_3","path":"rooms/Rm_3/Rm_3.yy",},},
     {"id":{"name":"Rm_4","path":"rooms/Rm_4/Rm_4.yy",},},
+    {"id":{"name":"Rm_5","path":"rooms/Rm_5/Rm_5.yy",},},
     {"id":{"name":"sBackground","path":"sprites/sBackground/sBackground.yy",},},
     {"id":{"name":"sClouds","path":"sprites/sClouds/sClouds.yy",},},
     {"id":{"name":"sInvisibleWall","path":"sprites/sInvisibleWall/sInvisibleWall.yy",},},
@@ -71,6 +73,7 @@
     {"roomId":{"name":"Rm_2","path":"rooms/Rm_2/Rm_2.yy",},},
     {"roomId":{"name":"Rm_3","path":"rooms/Rm_3/Rm_3.yy",},},
     {"roomId":{"name":"Rm_4","path":"rooms/Rm_4/Rm_4.yy",},},
+    {"roomId":{"name":"Rm_5","path":"rooms/Rm_5/Rm_5.yy",},},
   ],
   "templateType":null,
   "TextureGroups":[
