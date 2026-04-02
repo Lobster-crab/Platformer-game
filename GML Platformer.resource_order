@@ -37,6 +37,7 @@
     {"name":"spr_lightning","order":14,"path":"sprites/spr_lightning/spr_lightning.yy",},
     {"name":"spr_orb","order":10,"path":"sprites/spr_orb/spr_orb.yy",},
     {"name":"spr_portal","order":9,"path":"sprites/spr_portal/spr_portal.yy",},
+    {"name":"spr_projectile_zipie_boss","order":17,"path":"sprites/spr_projectile_zipie_boss/spr_projectile_zipie_boss.yy",},
     {"name":"spr_zipie_idle_fast","order":15,"path":"sprites/spr_zipie_idle_fast/spr_zipie_idle_fast.yy",},
     {"name":"spr_zipie_idle","order":12,"path":"sprites/spr_zipie_idle/spr_zipie_idle.yy",},
     {"name":"sWalls","order":6,"path":"sprites/sWalls/sWalls.yy",},
