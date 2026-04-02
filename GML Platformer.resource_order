@@ -3,6 +3,7 @@
     {"name":"Notes","order":15,"path":"folders/Objects/Notes.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Obj_chase_sensor_1","order":16,"path":"objects/Obj_chase_sensor_1/Obj_chase_sensor_1.yy",},
     {"name":"obj_deathbox","order":5,"path":"objects/obj_deathbox/obj_deathbox.yy",},
     {"name":"obj_george","order":13,"path":"objects/obj_george/obj_george.yy",},
     {"name":"obj_orb","order":3,"path":"objects/obj_orb/obj_orb.yy",},
@@ -12,6 +13,7 @@
     {"name":"obj_portal_5","order":10,"path":"objects/obj_portal_5/obj_portal_5.yy",},
     {"name":"Obj_portal_final","order":12,"path":"objects/Obj_portal_final/Obj_portal_final.yy",},
     {"name":"obj_portal","order":2,"path":"objects/obj_portal/obj_portal.yy",},
+    {"name":"obj_projectile_zipie_boss","order":17,"path":"objects/obj_projectile_zipie_boss/obj_projectile_zipie_boss.yy",},
     {"name":"obj_projectile_zipie","order":8,"path":"objects/obj_projectile_zipie/obj_projectile_zipie.yy",},
     {"name":"Obj_zipie_fast","order":11,"path":"objects/Obj_zipie_fast/Obj_zipie_fast.yy",},
     {"name":"Obj_zipie","order":7,"path":"objects/Obj_zipie/Obj_zipie.yy",},

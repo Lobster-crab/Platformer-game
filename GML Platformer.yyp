@@ -34,6 +34,7 @@
   },
   "name":"GML Platformer",
   "resources":[
+    {"id":{"name":"Obj_chase_sensor_1","path":"objects/Obj_chase_sensor_1/Obj_chase_sensor_1.yy",},},
     {"id":{"name":"obj_deathbox","path":"objects/obj_deathbox/obj_deathbox.yy",},},
     {"id":{"name":"obj_george","path":"objects/obj_george/obj_george.yy",},},
     {"id":{"name":"obj_orb","path":"objects/obj_orb/obj_orb.yy",},},
@@ -43,6 +44,7 @@
     {"id":{"name":"obj_portal_5","path":"objects/obj_portal_5/obj_portal_5.yy",},},
     {"id":{"name":"Obj_portal_final","path":"objects/Obj_portal_final/Obj_portal_final.yy",},},
     {"id":{"name":"obj_portal","path":"objects/obj_portal/obj_portal.yy",},},
+    {"id":{"name":"obj_projectile_zipie_boss","path":"objects/obj_projectile_zipie_boss/obj_projectile_zipie_boss.yy",},},
     {"id":{"name":"obj_projectile_zipie","path":"objects/obj_projectile_zipie/obj_projectile_zipie.yy",},},
     {"id":{"name":"Obj_zipie_fast","path":"objects/Obj_zipie_fast/Obj_zipie_fast.yy",},},
     {"id":{"name":"Obj_zipie","path":"objects/Obj_zipie/Obj_zipie.yy",},},
