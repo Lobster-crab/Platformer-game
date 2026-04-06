@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Object15",
-  "eventList":[],
+  "%Name":"obj_box_2",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Object15",
+  "name":"obj_box_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Notes",
-    "path":"folders/Objects/Notes.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_box",
+    "path":"sprites/spr_box/spr_box.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

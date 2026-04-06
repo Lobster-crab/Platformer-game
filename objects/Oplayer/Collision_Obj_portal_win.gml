@@ -1,2 +1,2 @@
 room_goto(Rm_win)
-x=0 y=1200
+x=1400 y=900
