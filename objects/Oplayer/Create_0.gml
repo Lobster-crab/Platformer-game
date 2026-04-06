@@ -7,6 +7,5 @@ walksp = 4;
 jumpsp = 9;
 Djump = 0
 Tjump = 0
-
 //test remove later
 room_goto(Rm_3)
