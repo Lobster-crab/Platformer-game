@@ -1,2 +1,2 @@
-room_goto(Rm_6)
+room_goto(Rm_final)
 x=0 y=1200
