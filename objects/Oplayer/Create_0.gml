@@ -8,5 +8,4 @@ jumpsp = 9;
 Djump = 0
 Tjump = 0
 //test remove later
-room_goto(Rm_win)
-x=1400 y=900
+
